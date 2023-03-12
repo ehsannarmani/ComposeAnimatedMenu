@@ -10,7 +10,11 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven{
+            url 'https://jitpack.io'
+        }
     }
 }
 rootProject.name = "AnimatedMenu"
 include ':app'
+include ':animated_menu'
