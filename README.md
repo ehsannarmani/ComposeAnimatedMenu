@@ -1,5 +1,5 @@
-# Otp Widget For JetpackCompose
-### An Otp Widget to enter passwords, sms codes , ...
+# Animated Menu For JetpackCompose
+### A Animated Menu and material openable menu for JetpackCompose
 <img src="https://github.com/ehsannarmani/ComposeAnimatedMenu/blob/master/media/gif.gif" width="250">
 <hr/>
 
